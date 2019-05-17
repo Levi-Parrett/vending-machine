@@ -21,7 +21,7 @@ credit = credits(26.00)
 
 
 #GUI creation
-'''
+''' this holds previously working GUI elements prior to adding additional frame structure to application
 win = tk.Tk()
 win.geometry("600x150")
 
